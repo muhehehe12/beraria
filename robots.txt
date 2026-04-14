@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# SEO Sitemap
+Sitemap: https://beraria-hm.ro/sitemap.xml
